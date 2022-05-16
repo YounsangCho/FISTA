@@ -1,2 +1,4 @@
 # FISTA
-6 implementations of FISTA algorithm
+
+We compared platforms for CUDA GPU in Python.
+  - Python with dynamic-link library using kernel functions
